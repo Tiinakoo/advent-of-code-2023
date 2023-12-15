@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "eslint-config-prettier": "^9.1.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.1.0"
+  },
+  "main": "answers.js",
+  "author": "tiinakoo <tiina.blakley@yle.fi>"
+}
